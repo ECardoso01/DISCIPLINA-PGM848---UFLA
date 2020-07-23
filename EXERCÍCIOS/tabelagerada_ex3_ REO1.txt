@@ -1,4 +1,4 @@
-# GenÛtipos, Min, Max, MÈdia, Vari‚ncia } da variavel da col 4
+# Gen√≥tipos, Min, Max, M√©dia, Vari√¢ncia } da variavel da col 4
 1     527.36     711.87     614.46    5727.14
 2      59.78     548.00     357.27   45426.02
 3     277.88     529.91     414.73   10821.31
